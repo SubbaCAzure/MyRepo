@@ -1,0 +1,12 @@
+D:\Vivek\BBMS\Domain\bin\Debug\net6.0\BBMS.Domain.deps.json
+D:\Vivek\BBMS\Domain\bin\Debug\net6.0\BBMS.Domain.dll
+D:\Vivek\BBMS\Domain\bin\Debug\net6.0\BBMS.Domain.pdb
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\BBMS.Domain.csproj.AssemblyReference.cache
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\BBMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\BBMS.Domain.AssemblyInfoInputs.cache
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\BBMS.Domain.AssemblyInfo.cs
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\BBMS.Domain.csproj.CoreCompileInputs.cache
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\BBMS.Domain.dll
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\refint\BBMS.Domain.dll
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\BBMS.Domain.pdb
+D:\Vivek\BBMS\Domain\obj\Debug\net6.0\ref\BBMS.Domain.dll

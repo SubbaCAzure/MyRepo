@@ -1,0 +1,17 @@
+D:\Vivek\BBMS\Services\bin\Debug\net6.0\BBMS.Services.deps.json
+D:\Vivek\BBMS\Services\bin\Debug\net6.0\BBMS.Services.dll
+D:\Vivek\BBMS\Services\bin\Debug\net6.0\BBMS.Services.pdb
+D:\Vivek\BBMS\Services\bin\Debug\net6.0\BBMS.Domain.dll
+D:\Vivek\BBMS\Services\bin\Debug\net6.0\BBMS.Repository.dll
+D:\Vivek\BBMS\Services\bin\Debug\net6.0\BBMS.Repository.pdb
+D:\Vivek\BBMS\Services\bin\Debug\net6.0\BBMS.Domain.pdb
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.csproj.AssemblyReference.cache
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.AssemblyInfoInputs.cache
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.AssemblyInfo.cs
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.csproj.CoreCompileInputs.cache
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.csproj.CopyComplete
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.dll
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\refint\BBMS.Services.dll
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\BBMS.Services.pdb
+D:\Vivek\BBMS\Services\obj\Debug\net6.0\ref\BBMS.Services.dll

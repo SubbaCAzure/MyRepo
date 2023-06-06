@@ -1,0 +1,17 @@
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.csproj.AssemblyReference.cache
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.AssemblyInfoInputs.cache
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.AssemblyInfo.cs
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.csproj.CoreCompileInputs.cache
+D:\Vivek\BBMS\Repository\bin\Debug\net6.0\BBMS.Repository.deps.json
+D:\Vivek\BBMS\Repository\bin\Debug\net6.0\BBMS.Repository.runtimeconfig.json
+D:\Vivek\BBMS\Repository\bin\Debug\net6.0\BBMS.Repository.dll
+D:\Vivek\BBMS\Repository\bin\Debug\net6.0\BBMS.Repository.pdb
+D:\Vivek\BBMS\Repository\bin\Debug\net6.0\BBMS.Domain.dll
+D:\Vivek\BBMS\Repository\bin\Debug\net6.0\BBMS.Domain.pdb
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.csproj.CopyComplete
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.dll
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\refint\BBMS.Repository.dll
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.pdb
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\BBMS.Repository.genruntimeconfig.cache
+D:\Vivek\BBMS\Repository\obj\Debug\net6.0\ref\BBMS.Repository.dll
